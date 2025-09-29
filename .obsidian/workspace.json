@@ -11,10 +11,14 @@
             "id": "d82b1b63821fb1a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Patterns_Tricks/Patterns/StachMatchingPairs_Pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "StachMatchingPairs_Pattern"
             }
           }
         ]
@@ -163,10 +167,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "85270097a0d04aba",
+  "active": "d82b1b63821fb1a1",
   "lastOpenFiles": [
+    "Patterns_Tricks/Patterns/Iterative_Reducing_Pattern.md",
+    "Patterns_Tricks/Patterns/StachMatchingPairs_Pattern.md",
+    "Problems/Strings/Valid_Parentheses.java",
+    "Problems/Strings/LongestCommonPrefix_Solution.java",
+    "Problems/Strings",
+    "Patterns_Tricks/Reversing_Numbers_Trick.md",
+    "Patterns_Tricks/Tricks/Reversing_Numbers_Trick.md",
+    "Patterns_Tricks/Patterns/Iterating_with_Lookahead_Pattern.md",
+    "Patterns_Tricks/Iterating_with_Lookahead.md",
+    "Patterns_Tricks/Iterating_with_Lookahead_Pattern.md",
+    "Patterns_Tricks/Patterns/HashMap_Memory_Pattern.md",
+    "Patterns_Tricks/Tricks",
+    "Patterns_Tricks/Patterns",
+    "Problems/Numbers/Roman to Integer.java",
+    "Patterns/HashMap_Memory_Pattern.md",
+    "Patterns_Tricks/HashMap_Memory_Pattern.md",
+    "Patterns_Tricks",
+    "Problems/Numbers/Palindrom_Solution.java",
+    "Problems/Numbers",
     "Patterns",
-    "Problems",
     "Welcome.md"
   ]
 }
