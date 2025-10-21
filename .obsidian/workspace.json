@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patterns_Tricks/Patterns/StachMatchingPairs_Pattern.md",
+                "file": "Data_Structures_And_Algorithms/The Main Categories of Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StachMatchingPairs_Pattern"
+              "title": "The Main Categories of Data Structures"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -167,10 +167,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d82b1b63821fb1a1",
+  "active": "85270097a0d04aba",
   "lastOpenFiles": [
-    "Patterns_Tricks/Patterns/Iterative_Reducing_Pattern.md",
+    "Data_Structures_And_Algorithms/Arrays",
+    "Data_Structures_And_Algorithms/Space Complexity.md",
+    "Data_Structures_And_Algorithms/The Main Categories of Data Structures.md",
+    "Data_Structures_And_Algorithms/Time Complexity & Big O Notation.md",
+    "Data_Structures_And_Algorithms/Fundamentals Of DSA.md",
     "Patterns_Tricks/Patterns/StachMatchingPairs_Pattern.md",
+    "Data_Structures_And_Algorithms",
+    "Patterns_Tricks/Patterns/Iterative_Reducing_Pattern.md",
     "Problems/Strings/Valid_Parentheses.java",
     "Problems/Strings/LongestCommonPrefix_Solution.java",
     "Problems/Strings",
@@ -188,7 +194,6 @@
     "Patterns_Tricks",
     "Problems/Numbers/Palindrom_Solution.java",
     "Problems/Numbers",
-    "Patterns",
     "Welcome.md"
   ]
 }
