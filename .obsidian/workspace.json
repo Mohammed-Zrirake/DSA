@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structures_And_Algorithms/The Main Categories of Data Structures.md",
-                "mode": "source",
-                "source": false
+                "file": "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed/HashSet/DSA Cheat Sheet , Java HashSet.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "The Main Categories of Data Structures"
+              "title": "DSA Cheat Sheet , Java HashSet"
             }
           }
         ]
@@ -167,33 +167,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "85270097a0d04aba",
+  "active": "d82b1b63821fb1a1",
   "lastOpenFiles": [
-    "Data_Structures_And_Algorithms/Arrays",
-    "Data_Structures_And_Algorithms/Space Complexity.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Linear/Stack/DSA Cheat Sheet , Java Stack.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed/HashSet/DSA Cheat Sheet , Java HashSet.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed/HashSet",
+    "Data_Structures_And_Algorithms/Math/DSA Cheat Sheet , Java Math & Number Theory.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Linear/Stack",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed/HashMap/DSA Cheat Sheet , Java HashMap.md",
+    "Data_Structures_And_Algorithms/Math",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Linear/Arrays/DSA Cheat Sheet , Java Arrays.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed/HashMap",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Hashed",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Non-Linear",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Linear",
+    "Data_Structures_And_Algorithms/Strings/DSA Cheat Sheet _ Java String & StringBuilder.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/Valid Anagrams.md",
+    "Data_Structures_And_Algorithms/Strings",
+    "Data_Structures_And_Algorithms/Data_Structures_Java",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/plusOne.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java View.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/Remove Element.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/Contains Duplicate 2.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/Contains Duplicate.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data/Two_Sum_Problem.md",
+    "Data_Structures_And_Algorithms/Tracking Problems I Solved Using Java Data",
     "Data_Structures_And_Algorithms/The Main Categories of Data Structures.md",
+    "Data_Structures_And_Algorithms/Data_Structures_Java/Linear/Arrays/Arrays.md",
+    "Data_Structures_And_Algorithms/Space Complexity.md",
     "Data_Structures_And_Algorithms/Time Complexity & Big O Notation.md",
     "Data_Structures_And_Algorithms/Fundamentals Of DSA.md",
     "Patterns_Tricks/Patterns/StachMatchingPairs_Pattern.md",
-    "Data_Structures_And_Algorithms",
     "Patterns_Tricks/Patterns/Iterative_Reducing_Pattern.md",
-    "Problems/Strings/Valid_Parentheses.java",
-    "Problems/Strings/LongestCommonPrefix_Solution.java",
-    "Problems/Strings",
     "Patterns_Tricks/Reversing_Numbers_Trick.md",
     "Patterns_Tricks/Tricks/Reversing_Numbers_Trick.md",
     "Patterns_Tricks/Patterns/Iterating_with_Lookahead_Pattern.md",
     "Patterns_Tricks/Iterating_with_Lookahead.md",
     "Patterns_Tricks/Iterating_with_Lookahead_Pattern.md",
-    "Patterns_Tricks/Patterns/HashMap_Memory_Pattern.md",
-    "Patterns_Tricks/Tricks",
-    "Patterns_Tricks/Patterns",
-    "Problems/Numbers/Roman to Integer.java",
-    "Patterns/HashMap_Memory_Pattern.md",
-    "Patterns_Tricks/HashMap_Memory_Pattern.md",
-    "Patterns_Tricks",
-    "Problems/Numbers/Palindrom_Solution.java",
-    "Problems/Numbers",
-    "Welcome.md"
+    "Patterns_Tricks/Patterns/HashMap_Memory_Pattern.md"
   ]
 }
